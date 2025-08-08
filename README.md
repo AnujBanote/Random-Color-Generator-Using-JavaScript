@@ -36,9 +36,9 @@ A simple JavaScript-based project that generates a random HEX color and applies 
 
 ## 📷 Screenshot
 
-![UI Preview](/screenshots/UI.png)
-![Character Counted Preview](/screenshots/character-Counted.png)
-![Limit Reached Preview](/screenshots/Limit%20Reached.png)
+![UI Preview](/screenshots/white.png)
+![New Color](/screenshots/blue.png)
+![New Color](/screenshots/green.png)
  
 ---
 
