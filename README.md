@@ -46,3 +46,8 @@ A simple JavaScript-based project that generates a random HEX color and applies 
 - Add copy to clipboard functionality for HEX code.
 - Show RGB and HSL values alongside HEX.
 - Include smooth background transition effects.
+
+---
+
+## ❤️Author
+Anuj Banote.
